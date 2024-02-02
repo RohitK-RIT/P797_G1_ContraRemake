@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration name="P797_G1_ContraRemake" type="Uproject" factoryName="rider.uproject">
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/P797_G1_ContraRemake.uproject" />
+      <configuration_2>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor-Win64-DebugGame.exe" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.2" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Users\rohit\Study\Sem 2\797\P797_G1_ContraRemake\P797_G1_ContraRemake.uproject&quot;" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+        <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="C:\Users\rohit\Study\Sem 2\797\P797_G1_ContraRemake\Binaries\Win64\P797_G1_ContraRemake-Win64-DebugGame.exe" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.2" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+        <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.2" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value=" &quot;C:\Users\rohit\Study\Sem 2\797\P797_G1_ContraRemake\P797_G1_ContraRemake.uproject&quot;" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+        <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
+      </configuration_4>
+      <configuration_5>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="C:\Users\rohit\Study\Sem 2\797\P797_G1_ContraRemake\Binaries\Win64\P797_G1_ContraRemake.exe" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.2" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+        <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
+      </configuration_5>
+      <configuration_6>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="EXECUTABLE_PATH" value="C:\Users\rohit\Study\Sem 2\797\P797_G1_ContraRemake\Binaries\Win64\P797_G1_ContraRemake-Win64-Shipping.exe" />
+        <option name="WORKING_DIRECTORY" value="C:\Program Files\Epic Games\UE_5.2" />
+        <option name="MANDATORY_PROGRAM_PARAMETERS" value="" />
+        <option name="CUSTOM_PROGRAM_PARAMETERS" value="" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+        <option name="TERMINAL_INTERACTION_BEHAVIOR" value="FORCE_CONSOLE" />
+      </configuration_6>
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+</project>
