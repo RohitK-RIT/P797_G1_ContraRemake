@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5076de-4b39-4aa5-a81f-f5b2e8b425d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.P797_G1_ContraRemake.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.P797_G1_ContraRemake.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d5076de-4b39-4aa5-a81f-f5b2e8b425d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706842430550</updated>
       <workItem from="1706842448025" duration="1094000" />
-      <workItem from="1707323873556" duration="606000" />
+      <workItem from="1707323873556" duration="632000" />
     </task>
     <servers />
   </component>
