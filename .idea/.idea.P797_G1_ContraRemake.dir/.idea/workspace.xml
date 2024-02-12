@@ -7,7 +7,80 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d5076de-4b39-4aa5-a81f-f5b2e8b425d1" name="Changes" comment="" />
+    <list default="true" id="1d5076de-4b39-4aa5-a81f-f5b2e8b425d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Test.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Sprites/BG.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Sprites/BG_Sprite.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.P797_G1_ContraRemake.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.P797_G1_ContraRemake.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/0/5B/LZM3DY213OSF5KPR4RFUCI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/0/EH/X136CKP4LYUWFMZPI2BDG5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/1/FW/VOGOP3LLYKD1KKIO1KLHQ8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/3/3T/PCTASO0Y2TUHHHST968TY3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/3/6G/QC7HF3KFTZ6RKQJJ3F43WL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/3/BW/FPPGALFV3K0F1O8U8KSS54.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/4/F8/SO62JQ8F8DWP2GMP7TY9RM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/4/FY/066SFL390BEV54GBVCDAEL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/5/2D/412LH2SYBJ8DG0DZH77OH1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/6/EA/EWJFNMXD4JEU8N1HW9WC8Y.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/6/OM/LU861LKEPWUF9DA03YB30L.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/6/T7/I2KHVPXQAO23AV8P2QK75C.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/8/2I/CUQJVJGT84KVTS29E8AT2W.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/9/VA/GSNHWEBHKOXVBGG6PFWVXZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/B/01/2VTUQBW4V78CA7B9RZP9KM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/B/76/3WL9HA8K6LZCHEVK7XZ4OM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/C/K5/LJBSK9O6UGZ8T7L4MU2FPX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/C/MX/MG9KPRZCUIAHEFY9C6QS5M.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/D/K1/R4U6MFMP48W3QANTOZQIL8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/D/W4/GA95L9FCSZDG7QBF5HFNFD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/ContraLevel/E/8G/HLAECT7KEHONXLOE7IP0QL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/0/1D/9YN5V6GFTQM5IQPZ9SKZEE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/0/1D/9YN5V6GFTQM5IQPZ9SKZEE.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/0/V9/LHRR7A27UIC3T2KEQL4RRM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/0/V9/LHRR7A27UIC3T2KEQL4RRM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/1/3H/C0RYFC89TF0E22AMXNYCY1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/1/3H/C0RYFC89TF0E22AMXNYCY1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/2/JU/EWDYTYNSX570IMQIKDK326.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/2/JU/EWDYTYNSX570IMQIKDK326.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/1L/SFPULYZOTX93KHRM5L43C6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/1L/SFPULYZOTX93KHRM5L43C6.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/7E/YMEOJC34K1R08AOYSQC1IL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/7E/YMEOJC34K1R08AOYSQC1IL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/8E/AJTYN31U4ETZR6TQ2T0GXO.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/8E/AJTYN31U4ETZR6TQ2T0GXO.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/Y5/0MAP5L3AKN4SXBWZQHK759.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/3/Y5/0MAP5L3AKN4SXBWZQHK759.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/6J/WK30LDBI6JT5MSQC55MG1W.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/6J/WK30LDBI6JT5MSQC55MG1W.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/G9/ET8N8ZG9SHSW6QAKUFSUS9.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/G9/ET8N8ZG9SHSW6QAKUFSUS9.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/IW/ERK2WKRW30B74EK1LDSCU0.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/IW/ERK2WKRW30B74EK1LDSCU0.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/SK/OQOFEJMCQTLKE04GJ6TM0Y.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/4/SK/OQOFEJMCQTLKE04GJ6TM0Y.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/3C/BKTKVFNQM8FE102KN7IIAZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/3C/BKTKVFNQM8FE102KN7IIAZ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/FW/ZWEO9X7NTIA064V1LC06UN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/FW/ZWEO9X7NTIA064V1LC06UN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/IL/3PKFA7OANJTOPHMXA7PCGI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/IL/3PKFA7OANJTOPHMXA7PCGI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/P6/C7B3ERFFMP1TCLBVYEPWKY.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/P6/C7B3ERFFMP1TCLBVYEPWKY.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/RV/R6AUUIIJVN0M51CI1TS2VI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/RV/R6AUUIIJVN0M51CI1TS2VI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/TQ/14PKCDOR7372LCIWLTEQPX.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/TQ/14PKCDOR7372LCIWLTEQPX.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/YE/LW1H9YSR8VV9TANZJ49DLE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/YE/LW1H9YSR8VV9TANZJ49DLE.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/YJ/3XLQ68S7BRVAVZFD7P88IO.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/5/YJ/3XLQ68S7BRVAVZFD7P88IO.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/6/OO/65TKTXUGOVL8WGIAJO96P2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/6/OO/65TKTXUGOVL8WGIAJO96P2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/6/WK/NXX3Z3JZZYB00G0Y7RLYJ4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/6/WK/NXX3Z3JZZYB00G0Y7RLYJ4.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/7/9U/FQXOY9G8EM7U1SUVGS9XT8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/7/9U/FQXOY9G8EM7U1SUVGS9XT8.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/7/WN/WBGT3V1A0CSTIIJMXY62VN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/7/WN/WBGT3V1A0CSTIIJMXY62VN.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/8/FJ/0XVDN66LV0GQ6FQKRVCKSF.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/8/FJ/0XVDN66LV0GQ6FQKRVCKSF.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/8/JQ/HORU3OY6CVSIXLGXA1LO8V.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/8/JQ/HORU3OY6CVSIXLGXA1LO8V.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/4H/OYNR9R0EKYE6DDD22ZBI80.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/4H/OYNR9R0EKYE6DDD22ZBI80.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/O9/3NDLSE7P8WUGWGMNGJ2BH4.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/O9/3NDLSE7P8WUGWGMNGJ2BH4.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/TD/F4U42DINON5SZSLI5SKVFC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/TD/F4U42DINON5SZSLI5SKVFC.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/XI/TYFJFAG1XZYOMYR3H49NEL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/9/XI/TYFJFAG1XZYOMYR3H49NEL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/A/VT/B3LV80RH80F2C22G6PX5U8.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/A/VT/B3LV80RH80F2C22G6PX5U8.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/9J/H4AX7ILOP3NF3MFVFJJBHH.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/9J/H4AX7ILOP3NF3MFVFJJBHH.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/BR/QUXWJ4O0OIQ52ZSQD0L0KX.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/BR/QUXWJ4O0OIQ52ZSQD0L0KX.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/NS/55W17OF6926DVTAQ0KNHQ6.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/NS/55W17OF6926DVTAQ0KNHQ6.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/OP/VVC2P0P9OTT4TKY3NETOBW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/B/OP/VVC2P0P9OTT4TKY3NETOBW.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/C/0S/BYLPFXKJAE3WFN32HUP5BK.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/C/0S/BYLPFXKJAE3WFN32HUP5BK.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/D/5X/4FZW19TCBV2R9HUJIZ5SNM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/D/5X/4FZW19TCBV2R9HUJIZ5SNM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/D/ED/WCD53U8QOTY76RPLWFK0ZX.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/D/ED/WCD53U8QOTY76RPLWFK0ZX.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/E/CS/87EEX0RUETICC9G33LUT6V.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/E/CS/87EEX0RUETICC9G33LUT6V.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/E/W1/8J2GUD13TFI24TRI1BEXIR.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/CotnraLevel/E/W1/8J2GUD13TFI24TRI1BEXIR.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/5/C7/F9DM7T7UV8HMNL0O2VM2FL.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/5/C7/F9DM7T7UV8HMNL0O2VM2FL.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/6/G0/2XE8G16C3MS03OYRC97YIR.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/6/G0/2XE8G16C3MS03OYRC97YIR.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/9/MC/QJZWYB80HMT7Q5JGSJ988K.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/9/MC/QJZWYB80HMT7Q5JGSJ988K.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/9/MR/0DKLAOEAA7KM6GY75460DT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/9/MR/0DKLAOEAA7KM6GY75460DT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/A/WP/CKPR2ZX16X8PYIQR1QQLUW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/A/WP/CKPR2ZX16X8PYIQR1QQLUW.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/F/50/00YR63RE9JX30YUGUUIYH9.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalObjects__/Maps/CotnraLevel/F/50/00YR63RE9JX30YUGUUIYH9.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +193,7 @@
       <updated>1706842430550</updated>
       <workItem from="1706842448025" duration="1094000" />
       <workItem from="1707323873556" duration="632000" />
+      <workItem from="1707558396892" duration="1603000" />
     </task>
     <servers />
   </component>
