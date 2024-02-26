@@ -8,18 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d5076de-4b39-4aa5-a81f-f5b2e8b425d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.P797_G1_ContraRemake.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.P797_G1_ContraRemake.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_AISolider.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_AISolider.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Gun.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Gun.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/HealthComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/HealthComponent.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PowerUpsComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/PowerUpsComponent.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/RapidFire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/RapidFire.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Turret.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Turret.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Input/IA_PowerUp3.uasset" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Enumerations/BPE_PowerUpState.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Enumerations/BPE_PowerUpTypes.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Datasets/PowerUp_Dataset.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BPS_PowerUpData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BPS_PowerUpData.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/PowerUp1Widget.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/isTriggeredWidget.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/isTriggeredWidget.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/Test/Combat_Test/0/VW/48H3SCNM93CH9LOWBUVMQ3.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/Test/Combat_Test/3/B6/DFCRUUIDPRSK4OLRR97DDE.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/Test/Combat_Test/3/B6/DFCRUUIDPRSK4OLRR97DDE.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/Test/Combat_Test/E/PE/UOAA9T5IVFK1XN6I69PB6F.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/Maps/Test/Combat_Test/E/PE/UOAA9T5IVFK1XN6I69PB6F.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +132,7 @@
       <workItem from="1707323873556" duration="632000" />
       <workItem from="1707558396892" duration="1603000" />
       <workItem from="1708362388902" duration="667000" />
+      <workItem from="1708925359305" duration="34000" />
     </task>
     <servers />
   </component>
